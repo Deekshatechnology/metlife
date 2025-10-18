@@ -1,7 +1,0 @@
-this is deploy.sh file
-adding new line to the file
-this is another new line updated now
-i like this
-this is another new line updated recently 
-development
-this is new line buddy 

@@ -1,5 +1,0 @@
-this is python script file
-this is pyy file
-hello.. this file is from master branch 
-hello .. this line is updated in dev branch 
-
